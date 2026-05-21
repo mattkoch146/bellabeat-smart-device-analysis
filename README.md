@@ -109,4 +109,4 @@ Since users spend an average of 39 minutes in bed before falling asleep, Bellabe
 
 ## Files in This Repository
 - `README.md` — full project documentation
-- `Bellabeat_Dashboard.pdf` — Power BI dashboard export
+- [View Dashboard PDF](Bellabeat_Dashboard.pdf)
