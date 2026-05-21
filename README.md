@@ -1,5 +1,4 @@
-# Bellabeat Smart Device Analysis
-## Google Data Analytics Certificate — Case Study 2
+Google Data Analytics Certificate Case Study - Bellabeat Smart Device Analysis
 
 ---
 
